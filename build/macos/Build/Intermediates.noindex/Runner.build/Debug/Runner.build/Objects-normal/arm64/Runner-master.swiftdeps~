@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "057f09d6eb923b87708e1e34fa2ee37244a2ee11925c123cdf85ab4a0c59f0f7"
+build_start_time: [1691956993, 184697000]
+build_end_time: [1691956993, 257869000]
+inputs:
+  "/Users/framework/Documents/study/flutter/pokedex/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1691956933, 595558781]
+  "/Users/framework/Documents/study/flutter/pokedex/macos/Runner/AppDelegate.swift": !private [1675199435, 967919735]
+  "/Users/framework/Documents/study/flutter/pokedex/macos/Runner/MainFlutterWindow.swift": !private [1686762189, 628254414]
